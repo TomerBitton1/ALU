@@ -15,6 +15,7 @@ Before you can work with this VHDL ALU project, you should have the following:
 The project structure is organized as follows:
 - ALU.vhd, The main VHDL file for the ALU design.
 - ALU.do, A do file for simulating the ALU.
+- Waveform.
 
 4. Supported Operations
 
